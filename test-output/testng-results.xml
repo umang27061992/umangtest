@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29971" started-at="2019-04-04T12:50:03Z" finished-at="2019-04-04T12:50:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29971" started-at="2019-04-04T12:50:03Z" finished-at="2019-04-04T12:50:33Z">
+      <class name="Nema.HtmlCompare">
+        <test-method status="PASS" signature="Html_test()[pri:0, instance:Nema.HtmlCompare@2173f6d9]" name="Html_test" duration-ms="29931" started-at="2019-04-04T12:50:03Z" finished-at="2019-04-04T12:50:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Html_test -->
+      </class> <!-- Nema.HtmlCompare -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
